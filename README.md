@@ -7,7 +7,7 @@ A personal finance budeget tracker built from scratch with Next.js and shadcn/ui
 - Add income and expense transactions
 - Category-based entries
 - Monthly summary cards (income, expense, balance, budget remaining)
-- Editable monthly budget
+- Editable monthly budgets
 - Local storage persistence
 - Delete transactions
 
