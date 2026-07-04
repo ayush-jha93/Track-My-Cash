@@ -1,6 +1,6 @@
 # Track My Cash
 
-A personal finance tracker built from scratch with Next.js and shadcn/ui.
+A personal finance budeget tracker built from scratch with Next.js and shadcn/ui.
 
 ## Features
 
